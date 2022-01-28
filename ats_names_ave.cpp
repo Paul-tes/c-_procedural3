@@ -1,3 +1,7 @@
+/*
+ This algorithm is to accept the student number and user supplies also the name and the test1 test2 test3 and avarage and sum are computed and desplay by thir name in the manner of sorting. 
+*/
+
 #include <iostream>
 #include <iomanip>
 #include <bits/stdc++.h>
